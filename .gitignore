@@ -74,7 +74,6 @@ build/
 !**/ios/**/default.perspectivev3
 at_backupkey_flutter/example/pubspec.lock
 at_backupkey_flutter/pubspec.lock
-*.lock
 at_chat_flutter/example/pubspec.lock
 at_chat_flutter/pubspec.lock
 at_common_flutter/example/pubspec.lock
@@ -87,3 +86,7 @@ at_events_flutter/example/pubspec.lock
 at_events_flutter/pubspec.lock
 at_location_flutter/example/pubspec.lock
 at_location_flutter/pubspec.lock
+at_follows_flutter/example/pubspec.lock
+at_follows_flutter/pubspec.lock
+at_onboarding_flutter/example/pubspec.lock
+at_onboarding_flutter/pubspec.lock
